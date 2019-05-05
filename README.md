@@ -1,6 +1,7 @@
 # dotvim
 
-Installation 
+Installation:
+
 git clone git://github.com/borisux/dotvim.git ~/.vim/
 
 
